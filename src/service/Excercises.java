@@ -133,7 +133,7 @@ public class Excercises {
 		}
 		return null;
 	}
-	
+	 
 	/**
 	 * Funkcija izrēķina double 1D masīva vidēju vērtīu
 	 * @param array
