@@ -320,10 +320,20 @@ public class Excercises {
 	 * @param inputEquation
 	 * @return
 	 */
-	public static double executeStringEquation(String inputEquation)
-	{
+	public static double executeStringEquation(String inputEquation){
 		return 0.0;
 	}
+	
+	/**
+	 * Veic darbības ar kopām
+	 * @param input
+	 * @return
+	 */
+	public static String setOperations(String input){
+		
+		return "";
+	}
+		
 
 }
 
