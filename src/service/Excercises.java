@@ -314,6 +314,17 @@ public class Excercises {
 	/**
 	 * Uztaisit 7. uzdevumu
 	 */
+	
+	/**
+	 * Aprēķina string izteiksmi kā matematisku izteiksmi
+	 * @param inputEquation
+	 * @return
+	 */
+	public static double executeStringEquation(String inputEquation)
+	{
+		return 0.0;
+	}
+
 }
 
 
