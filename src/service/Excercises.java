@@ -306,6 +306,14 @@ public class Excercises {
 		return temp;
 
 	}
+	
+	/**
+	 * Uztaisit 6. uzdevumu
+	 */
+	
+	/**
+	 * Uztaisit 7. uzdevumu
+	 */
 }
 
 
